@@ -10,6 +10,7 @@
     <file path="/routes.rb" changelist="21eb63c0-be79-4fae-94fc-8b753e55f1a7" time="1382858429796" ignored="false" />
     <file path="$PROJECT_DIR$/public/assets/application.js" changelist="21eb63c0-be79-4fae-94fc-8b753e55f1a7" time="1382854110195" ignored="false" />
     <file path="/production.rb" changelist="21eb63c0-be79-4fae-94fc-8b753e55f1a7" time="1382854178608" ignored="false" />
+    <file path="/messages_controller.rb" changelist="21eb63c0-be79-4fae-94fc-8b753e55f1a7" time="1382859923916" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,19 +84,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="7" selection-start="111" selection-end="111" vertical-scroll-proportion="0.17928287">
+            <state line="6" column="7" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="messages_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/messages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+            <state line="46" column="59" selection-start="962" selection-end="962" vertical-scroll-proportion="0.6314741">
               <folding />
             </state>
           </provider>
@@ -131,8 +132,8 @@
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.less" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/messages_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/messages_controller.rb" />
       </list>
     </option>
   </component>
@@ -870,16 +871,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/messages_controller.rb">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+        <state line="6" column="7" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/messages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="111" selection-end="111" vertical-scroll-proportion="0.17928287">
+        <state line="46" column="59" selection-start="962" selection-end="962" vertical-scroll-proportion="0.6314741">
           <folding />
         </state>
       </provider>
