@@ -1,5 +1,10 @@
 JSONReceiver::Application.routes.draw do
+
+  get 'create', to: 'messages#create'
+
   resources :messages
+
+  get 'create', to: 'messages#create'
 
   root to: 'messages#index'
   # The priority is based upon order of creation:
