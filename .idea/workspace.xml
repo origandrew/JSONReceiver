@@ -38,10 +38,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20131027055320_create_messages.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="20131027055320_create_messages.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20131027055320_create_messages.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="59" selection-end="59" vertical-scroll-proportion="0.028571429">
+            <state line="1" column="12" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="52" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.23155738">
               <folding />
             </state>
           </provider>
@@ -86,6 +95,7 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.less" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -770,13 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="20" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
@@ -821,7 +824,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20131027055320_create_messages.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="59" selection-end="59" vertical-scroll-proportion="0.028571429">
+        <state line="1" column="12" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="52" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.23155738">
           <folding />
         </state>
       </provider>
